@@ -1,0 +1,20 @@
+TARJETA DIGITAL — DISEÑO ORIGINAL EN TONOS TURQUESA
+
+1. Descomprime este ZIP.
+2. Abre https://github.com/hectortorresvicente/enlaces
+3. En tu repositorio, sustituye los archivos index.html y enlaces.js
+   por los que contiene este ZIP (puedes editar los existentes desde
+   GitHub o subir los nuevos sobrescribiendo los nombres).
+4. Mantén favicon.svg y qr-enlaces.png en la raíz del repositorio.
+5. Confirma los cambios pulsando Commit changes.
+6. Abre https://hectortorresvicente.github.io/enlaces/ y recarga la web.
+
+Este cambio conserva la misma dirección y, por tanto, el mismo QR.
+Para añadir enlaces en el futuro, edita enlaces.js en el repositorio.
+
+Cambios de esta versión:
+- Fondo, tarjetas y acentos en turquesa suave (diseño original).
+- Eliminado encabezado superior DIGITAL CARD / Conectemos.
+- Eliminada la línea de Gestión de proyectos IT / Transformación digital / IA.
+- Nombre mostrado como Hèctor Torres Vicente.
+- Conservados Instagram, LinkedIn, GitHub, correo, teléfono y botones.
