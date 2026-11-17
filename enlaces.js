@@ -5,8 +5,7 @@
 // Iconos disponibles: "instagram", "linkedin", "github", "correo", "telefono", "web"
 // =============================================
 window.TARJETA = {
-  nombre: "Héctor Torres Vicente",
-  profesion: "Gestión de proyectos IT · Transformación digital · IA",
+  nombre: "Hèctor Torres Vicente",
   bio: "Mis redes, proyectos y datos de contacto en un único lugar.",
   url: "https://hectortorresvicente.github.io/enlaces/",
 
